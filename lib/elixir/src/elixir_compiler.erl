@@ -138,6 +138,7 @@ bootstrap_file(File) ->
 
 bootstrap_main() ->
   [<<"lib/elixir/lib/kernel.ex">>,
+   <<"lib/elixir/lib/foo.ex">>,
    <<"lib/elixir/lib/macro/env.ex">>,
    <<"lib/elixir/lib/keyword.ex">>,
    <<"lib/elixir/lib/module.ex">>,
